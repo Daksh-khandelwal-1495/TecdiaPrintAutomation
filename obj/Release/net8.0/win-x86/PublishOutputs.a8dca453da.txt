@@ -1,0 +1,13 @@
+C:\Users\devch\PrintAgent\bin\Release\net8.0\win-x86\publish\Interop.bpac.dll
+C:\Users\devch\PrintAgent\bin\Release\net8.0\win-x86\publish\PrintAgent.exe
+C:\Users\devch\PrintAgent\bin\Release\net8.0\win-x86\publish\appsettings.Development.json
+C:\Users\devch\PrintAgent\bin\Release\net8.0\win-x86\publish\appsettings.json
+C:\Users\devch\PrintAgent\bin\Release\net8.0\win-x86\publish\PrintAgent.dll
+C:\Users\devch\PrintAgent\bin\Release\net8.0\win-x86\publish\PrintAgent.deps.json
+C:\Users\devch\PrintAgent\bin\Release\net8.0\win-x86\publish\PrintAgent.runtimeconfig.json
+C:\Users\devch\PrintAgent\bin\Release\net8.0\win-x86\publish\PrintAgent.pdb
+C:\Users\devch\PrintAgent\bin\Release\net8.0\win-x86\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\devch\PrintAgent\bin\Release\net8.0\win-x86\publish\Microsoft.OpenApi.dll
+C:\Users\devch\PrintAgent\bin\Release\net8.0\win-x86\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\devch\PrintAgent\bin\Release\net8.0\win-x86\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\devch\PrintAgent\bin\Release\net8.0\win-x86\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
