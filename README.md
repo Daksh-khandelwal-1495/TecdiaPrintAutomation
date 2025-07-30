@@ -25,6 +25,13 @@ It allows remote instances of Syteline to trigger printing on a local or network
 | Windows OS        | 10+          | Required for printer access    |
 | Printer Installed | Any          | Should be set as default       |
 
+## 🔧 Requirements
+
+| Tool             | Version      | Purpose                        |
+|------------------|--------------|--------------------------------|
+| [.NET SDK](https://dotnet.microsoft.com/en-us/download) | 6.0+ | To build and run the API |
+| [ngrok](https://ngrok.com/download) | Any (CLI version) | Tunnel public HTTPS to localhost |
+| Windows OS | Any modern version | To access local printers |
 ---
 
 ## 📂 Project Structure
